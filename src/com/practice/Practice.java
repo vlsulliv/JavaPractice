@@ -2,9 +2,10 @@ package com.practice;
 
 public class Practice {
     public static void main(String[] args) {
+    // Int character;
+    // String numChar;
 
-//      Int character;
-//      String numChar;
+        System.out.println("Hello World");
 
         String str1  = "\n" + "Two roads diverged in a yellow wood,\n" + "And sorry I could not travel both";
 

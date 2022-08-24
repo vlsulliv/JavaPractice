@@ -1,41 +1,43 @@
 # Learn-Java
 
-Table of Contents
-[Learning-Java](#learning-java)
-[Java Topics](#java-topics)
-    [Basics](#basics)
-    [Advanced](#advanced)
-[JDK Downloads](#jdk-downloads)
-[Coding Communities](#coding-communities)
-[Markdown](#markdown)
-[Project Management ](#project-management)
-[Version Control](#version-control)
-[Contact Me](contact-me)
-[License](#license)
+A collection of SDET practice assignments for Techbee
+
+Table of Contents<br>
+[Learning-Java](#learning-java)<br>
+[Java Topics](#java-topics)<br>
+    [Basics](#basics)<br>
+    [Advanced](#advanced)<br>
+[JDK Downloads](#jdk-downloads)<br>
+[Coding Communities](#coding-communities)<br>
+[Markdown](#markdown)<br>
+[Project Management ](#project-management)<br>
+[Version Control](#version-control)<br>
+[Contact Me](contact-me)<br>
+[License](#license)<br>
 
 ## Java Topics
 
 ### Basics
-- Hello, World!
-- Variables and Types
-- Conditionals
-- Arrays
-- Loops
-- Functions
-- Objects
-- Compiling and Running with Arguments
+- Hello, World!<br>
+- Variables and Types<br>
+- Conditionals<br>
+- Arrays<br>
+- Loops<br>
+- Functions<br>
+- Objects<br>
+- Compiling and Running with Arguments<br>
 
 ### Advanced
-- Inheritance
-- Try and Catch
-- Abstract Classes
-- Interfaces
-- Using Generics
-- Collections
-- Wrappers and Autoboxing
-- Exceptions
-- Generic Types
-- IO Streams
+- Inheritance<br>
+- Try and Catch<br>
+- Abstract Classes<br>
+- Interfaces<br>
+- Using Generics<br>
+- Collections<br>
+- Wrappers and Autoboxing<br>
+- Exceptions<br>
+- Generic Types<br>
+- IO Streams<br>
 
 
 [Apache](https://www.apache.org/): Open source software
